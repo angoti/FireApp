@@ -1,4 +1,4 @@
-package com.fireapp;
+package com.professorangoti.fireapp;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
